@@ -905,10 +905,12 @@ Important Information
 
 SOLOSEC may be taken before or after or during a meal.
 Take 1 entire packet of SOLOSEC at one time. Do not take only part of the medicine and save a portion for later.
-How should I store SOLOSEC?
 
-Store SOLOSEC at room temperature between 68°F to 77°F (20°C to 25°C).
-Keep SOLOSEC and all medications out of the reach of children.
+### How should I store SOLOSEC?
+
+* Store SOLOSEC at room temperature between 68°F to 77°F (20°C to 25°C).
+
+* Keep SOLOSEC and all medications out of the reach of children.
 
 This Patient Information and Instructions for Use have been approved by the US Food and Drug Administration. Revised: 06/2019
 
