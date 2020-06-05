@@ -912,8 +912,6 @@ Take 1 entire packet of SOLOSEC at one time. Do not take only part of the medici
 
 * Keep SOLOSEC and all medications out of the reach of children.
 
-# new copy 
-
 This Patient Information and Instructions for Use have been approved by the US Food and Drug
 Administration. Revised: 06/2019  
 Manufactured for and Distributed by: Lupin Pharmaceuticals, Inc., Baltimore, MD 21202  
