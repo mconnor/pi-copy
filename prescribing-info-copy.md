@@ -175,7 +175,7 @@ Range	43.4 (5.4)
 36.3 – 59.3	4.0 (4.0 – 8.0)	1478 (335.0)
 965 – 2240
 
-    *Median (range)
+  *Median (range)
     †Admixed with applesauce
 
 Distribution
@@ -730,11 +730,11 @@ Trial 1
 Trial 2
 SOLOSEC (N=62)*
 n (%)
-Placebo (N=62) *
+Placebo (N=62)*
 n (%)
-SOLOSEC (N=107) *
+SOLOSEC (N=107)*
 n (%)
-Placebo (N=57) *
+Placebo (N=57)*
 n (%)
 Clinical Responder†
 42 (67.7)
@@ -909,10 +909,13 @@ Take 1 entire packet of SOLOSEC at one time. Do not take only part of the medici
 ### How should I store SOLOSEC?
 
 * Store SOLOSEC at room temperature between 68°F to 77°F (20°C to 25°C).
-
 * Keep SOLOSEC and all medications out of the reach of children.
 
-This *Patient Information* and *Instructions for Use* have been approved by the US Food and Drug
+> NEW COPY JUNE 5 *********************
+
+<hr />
+
+This*Patient Information* and*Instructions for Use* have been approved by the US Food and Drug
 Administration. Revised: 06/2019  
 Manufactured for and Distributed by: Lupin Pharmaceuticals, Inc., Baltimore, MD 21202  
 © 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved Solosec is a
@@ -920,7 +923,9 @@ registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)
 226679
 
 **PACKAGE LABEL.PRINCIPAL DISPLAY PANEL**  
-**Principal Display Panel - Individual Carton**  
+
+#### Principal Display Panel - Individual Carton
+
 **solosec&reg; 2g**  
 **secnidazole**  
 NDC 27437-051-01  
@@ -929,14 +934,12 @@ NDC 27437-051-01
 **Rx Only**  
 **LUPIN PHARMACEUTICALS, INC.**  
 **USUAL DOSAGE:** One packet.  
+
 **Solos ec granules should be administered as follows:**
 
 * Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
-
 * Consume the contents of one packet without chewing or crunching the granules.
-
 * A glass of water may be taken to aid in swallowing.
-
 * May be taken at any time with, before or after a meal.
 
 **Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F)**  
@@ -946,228 +949,82 @@ NDC 27437-051-01
 Solosec is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)  
 Revised June 2019  
 Position pharmacy label over this panel  
-Product of Italy
+Product of Italy  
+*solosec&reg; 2g* 
+*secnidazole* 
+*Rx Only*
 
-solosec&reg; 2g  
-secnidazole  
-Rx Only
 
+<HR />
+>  Image  - box 1 display carton
 
 
-Image 01
-Principal Display Panel - Display Carton
 
-USUAL DOSAGE: One packet.
+#### Principal Display Panel - Display Carton
 
-Solosec® granules should be administered as follows:
+**USUAL DOSAGE:** One packet.
 
-Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
-Consume the contents of one packet without chewing or crunching the granules.
-A glass of water may be taken to aid in swallowing.
-May be taken at any time with, before or after a meal.
-Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F)
+*Solosec® granules should be administered as follows:*
 
-(See USP Controlled Room Temperature).
+* Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
+* Consume the contents of one packet without chewing or crunching the granules.
+* A glass of water may be taken to aid in swallowing.
+* May be taken at any time with, before or after a meal.
 
-Manufactured for and Distributed by: Lupin Pharmaceuticals, Inc., Baltimore, MD 21202
+*Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F)*  
+*(See USP Controlled Room Temperature).*
+*Manufactured for and Distributed by:* Lupin Pharmaceuticals, Inc., Baltimore, MD 21202  
+© 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved  
+Solosec® is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)  
+Revised June 2019  
+Product of Italy  
+**solosec® 2g**  
+**secnidazole**  
+**Oral Granules**
+**PROFESSIONAL SAMPLE - NOT FOR SALE**  
+**Usual Dosage:** 
+**One 2 gram packet**  
+**Contains 12 individual cartons (NDC 27437-051-01) which contain one Solosec packet.** 
+**Rx Only** 
+**LUPIN PHARMACEUTICALS, INC.**
 
-© 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved
+<hr />
+> Image 05
 
-Solosec® is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)
+#### Principal Display Panel - Individual Packet
 
-Revised June 2019
+**This packet is contained within**
+**CARTON NDC 27437-051-02**  
+**solosec® 2g**  
+**secnidazole**  
+**Oral Granules**  
+**Rx Only**  
+**LUPIN PHARMACEUTICALS, INC.**
+*USUAL DOSAGE:* One packet.
 
-Product of Italy
+*Solosec® granules should be administered as follows:*
 
-solosec® 2g
+* Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
+* Consume the contents of one packet without chewing or crunching the granules.
+* A glass of water may be taken to aid in swallowing.
+* May be taken at any time with, before or after a meal.
 
-secnidazole
+*Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F)*  
+*(See USP Controlled Room Temperature).*
+*Manufactured for and Distributed by:* Lupin Pharmaceuticals, Inc., Baltimore, MD 21202  
+© 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved  
+Solosec® is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)  
+Revised June 2019  
+Product of Italy  
+**solosec® 2g**  
+**secnidazole**  
+**Rx Only**
 
-Oral Granules
 
-Usual Dosage:
+<!-- Position pharmacy label over this panel --> 
 
-One 2 gram packet
+>Image 06
 
-Contains 12 individual cartons (NDC 27437-051-01) which contain one Solosec packet.
-
-Rx Only
-
-LUPIN PHARMACEUTICALS, INC.
-
-Image 02
-Principal Display Panel - Individual Packet
-
-This packet is contained within
-
-CARTON NDC 27437-051-01
-
-solosec®
-
-secnidazole
-
-2g
-
-Oral Granules
-
-Rx Only
-
-LUPIN PHARMACEUTICALS, INC.
-
-USUAL DOSAGE: One packet.
-
-Solosec® granules should be administered as follows:
-
-Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
-Consume the contents of one packet without chewing or crunching the granules.
-A glass of water may be taken to aid in swallowing.
-May be taken at any time with, before or after a meal.
-Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F). (See USP Controlled Room Temperature).
-
-Mfd for and Distributed by: Lupin Pharmaceuticals, Inc., Baltimore, MD 21202
-
-© 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved
-
-Solosec® is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)
-
-Revised June 2019
-
-Product of Italy
-
-Image 03
-Principal Display Panel - Individual Carton
-
-solosec® 2g
-
-secnidazole
-
-NDC 27437-051-02
-
-Oral Granules
-
-PROFESSIONAL SAMPLE - NOT FOR SALE
-
-1 Unit-of-Use Packet
-
-Rx Only
-
-LUPIN PHARMACEUTICALS, INC.
-
-USUAL DOSAGE: One packet.
-
-Solosec® granules should be administered as follows:
-
-Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
-Consume the contents of one packet without chewing or crunching the granules.
-A glass of water may be taken to aid in swallowing.
-May be taken at any time with, before or after a meal.
-Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F)
-
-(See USP Controlled Room Temperature).
-
-Manufactured for and Distributed by: Lupin Pharmaceuticals, Inc., Baltimore, MD 21202
-
-© 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved
-
-Solosec® is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)
-
-Revised June 2019
-
-Position pharmacy label over this panel
-
-Product of Italy
-
-solosec®2g
-
-secnidazole
-
-Rx Only
-
-Image 04
-Principal Display Panel - Display Carton
-
-USUAL DOSAGE: One packet.
-
-Solosec® granules should be administered as follows:
-
-Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
-Consume the contents of one packet without chewing or crunching the granules.
-A glass of water may be taken to aid in swallowing.
-May be taken at any time with, before or after a meal.
-Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F)
-
-(See USP Controlled Room Temperature).
-
-Manufactured for and Distributed by: Lupin Pharmaceuticals, Inc., Baltimore, MD 21202
-
-© 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved
-
-Solosec® is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)
-
-Revised June 2019
-
-Product of Italy
-
-solosec® 2g
-
-secnidazole
-
-Oral Granules
-
-PROFESSIONAL SAMPLE - NOT FOR SALE
-
-Usual Dosage:
-
-One 2 gram packet
-
-Contains 5 individual cartons (NDC 27437-051-02) which contain one Solosec packet.
-
-Rx Only
-
-LUPIN PHARMACEUTICALS, INC.
-
-Image 06
-Principal Display Panel - Individual Packet
-
-This packet is contained within
-
-CARTON NDC 27437-051-02
-
-solosec®
-
-secnidazole
-
-2g
-
-Oral Granules
-
-PROFESSIONAL SAMPLE - NOT FOR SALE
-
-Rx Only
-
-LUPIN PHARMACEUTICALS, INC.
-
-USUAL DOSAGE: One packet.
-
-Solosec®granules should be administered as follows:
-
-Sprinkle onto applesauce, yogurt or pudding. The granules will not dissolve. Consume all of the granules within 30 minutes.
-Consume the contents of one packet without chewing or crunching the granules.
-A glass of water may be taken to aid in swallowing.
-May be taken at any time with, before or after a meal.
-Store at 20-25°C (68-77°F); excursions permitted to 15-30°C (59-86°F). (See USP Controlled Room Temperature).
-
-Mfd for and Distributed by: Lupin Pharmaceuticals, Inc., Baltimore, MD 21202
-
-© 2019 Symbiomix Therapeutics, LLC (A Lupin Company). All Rights Reserved
-
-Solosec® is a registered trademark of Symbiomix Therapeutics, LLC (A Lupin Company)
-
-Revised June 2019
-
-Product of Italy
-
-Image 06
 SOLOSEC 
 secnidazole granule
 Product Information
